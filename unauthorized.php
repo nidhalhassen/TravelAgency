@@ -15,7 +15,7 @@
         }
         .card {
             border-radius: 15px;
-            background-color: rgba(255, 255, 255, 0.5);
+            background-color: rgba(255, 255, 255, 0.6);
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
         .card-body {
@@ -33,7 +33,7 @@
                 <div class="card">
                     <div class="card-body">
                         <h2>Unauthorized Access</h2>
-                        <p>Your account has not been activated yet. Please contact the administrator for assistance.</p>
+                        <p>Your account has not been activated yet. Please contact the administrator for assistances.</p>
                         <a href="login.php" class="btn btn-primary">Go to Login Page</a>
                     </div>
                 </div>
